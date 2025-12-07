@@ -1,4 +1,4 @@
-public class ExamPractice {
+public class RAIDProcessExample {
     public static void main(String[] args){
         //This will be a program where we simulate RAID functionality
     
